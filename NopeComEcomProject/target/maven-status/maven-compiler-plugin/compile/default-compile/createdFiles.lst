@@ -1,0 +1,5 @@
+come\pages\RegistrationPage.class
+com\interfacePageaActions\PageActions.class
+com\utils\TestUtils.class
+come\pages\LoginPage.class
+com\BasePage\BasePage.class
